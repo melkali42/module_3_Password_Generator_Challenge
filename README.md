@@ -15,14 +15,9 @@ This was password generator was built with HTML, CSS and JavaScript
 1. Open the password generator URL in your browser or use this link: 
 2. Click on the "generate password" button and follow promts to generate a random passowrd. 
 
-![screenshot 1](asset and images\pw gen 1.PNG)
-![screenshot 2](asset and images\pw gen 2.PNG)
-![screenshot 3](asset and images\pw gen 3.PNG)
-![screenhost 4](asset and images\pw gen 4.PNG)
-![screenshot 5](asset and images\pw gen 5.PNG)
-![screenshot 6](asset and images\pw gen 6.PNG)
-![screenshot 7](asset and images\pw gen 7.PNG)
-![screenshot 8](asset and images\pw gen 8.PNG)
+
+
+
 
 ## Credits
 Create by Melissa Kalish. Starter code retrieved from https://github.com/coding-boot-camp/friendly-parakeet
