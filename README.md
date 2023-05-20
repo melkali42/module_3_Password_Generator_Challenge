@@ -16,6 +16,13 @@ This was password generator was built with HTML, CSS and JavaScript
 2. Click on the "generate password" button and follow promts to generate a random passowrd. 
 
 ![screenshot 1](https://github.com/melkali42/module_3_Password_Generator_Challenge/blob/main/asset%20and%20images/pw%20gen%201.PNG)
+![screenshot 2](https://github.com/melkali42/module_3_Password_Generator_Challenge/blob/main/asset%20and%20images/pw%20gen%202.PNG)
+![screenshot 3](https://github.com/melkali42/module_3_Password_Generator_Challenge/blob/main/asset%20and%20images/pw%20gen%203.PNG)
+![screenshot 4](https://github.com/melkali42/module_3_Password_Generator_Challenge/blob/main/asset%20and%20images/pw%20gen%204.PNG)
+![screenshot 5](https://github.com/melkali42/module_3_Password_Generator_Challenge/blob/main/asset%20and%20images/pw%20gen%205.PNG)
+![screenshot 6](https://github.com/melkali42/module_3_Password_Generator_Challenge/blob/main/asset%20and%20images/pw%20gen%206.PNG)
+![screenshot 7](https://github.com/melkali42/module_3_Password_Generator_Challenge/blob/main/asset%20and%20images/pw%20gen%207.PNG)
+![screensjot 8](https://github.com/melkali42/module_3_Password_Generator_Challenge/blob/main/asset%20and%20images/pw%20gen%208.PNG)
 
 
 
