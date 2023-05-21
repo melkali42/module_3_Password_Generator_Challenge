@@ -28,7 +28,7 @@ This was password generator was built with HTML, CSS and JavaScript
 
 
 ## Credits
-Create by Melissa Kalish. Starter code retrieved from https://github.com/coding-boot-camp/friendly-parakeet
+Create by Melissa Kalish. Starter code retrieved from https://github.com/coding-boot-camp/friendly-parakeet. I also conducted several searches in Google.com and utilized https://stackoverflow.com/ for reserach and viewing others code, questions and answers. 
 
 ## Website
 https://github.com/melkali42/module_3_Password_Generator_Challenge
