@@ -12,7 +12,7 @@ This was password generator was built with HTML, CSS and JavaScript
 
 ## Usage
 
-1. Open the password generator URL (https://github.com/melkali42/module_3_Password_Generator_Challenge/blob/main/Develop/index.html) in your browser or use this link 
+1. Open the password generator URL in the index in your browser and view in default web browser setting. 
 2. Click on the "generate password" button and follow promts to generate a random passowrd. 
 
 ![screenshot 1](https://github.com/melkali42/module_3_Password_Generator_Challenge/blob/main/asset%20and%20images/pw%20gen%201.PNG)
